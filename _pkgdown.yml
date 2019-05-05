@@ -83,7 +83,7 @@ navbar:
           href: articles/v08-tab06_Pathway-Activity-Analysis.html
         - text: "7: Sample Size"
           href: articles/v09-tab07_Sample-Size.html
-    - text: "Command Line Analysis"
+    - text: "R Console Analysis"
       menu:
         - text: "Processing and Visualizing Data"
           href: articles/v02-Processing_and_Visualizing_Data_in_the_SingleCellTK.html
